@@ -5,9 +5,9 @@ As the offline version of Scratch 3.0 is not supported for the linux, this is th
 Download the deb file from the releases(https://github.com/redshaderobotics/scratch3.0-linux/releases/download/1.2.1/scratch-desktop_1.2.1_amd64.deb). Install using the software installer in ubuntu.
 
 ## Supported/Tested Linux Distros
-* Ubuntu 
-* Debian
-* Mint
+* Ubuntu 18.04.2
+* Debian 9.8.0
+* Mint 19.1
 
 ## Screenshot in Ubuntu 18.04.2
 ![Screenshot](screenshot.png)
