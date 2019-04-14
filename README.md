@@ -7,7 +7,7 @@ Download the deb file from the releases(https://github.com/redshaderobotics/scra
 ## Supported/Tested Linux Distros
 * Ubuntu 18.04.2
 * Debian 9.8.0
-* Mint 19.1
+* Linux Mint 19.1
 
 ## Screenshot in Ubuntu 18.04.2
 ![Screenshot](screenshot.png)
