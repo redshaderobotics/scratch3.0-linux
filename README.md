@@ -8,6 +8,7 @@ Download the deb file from the releases(https://github.com/redshaderobotics/scra
 * Ubuntu 18.04.2
 * Debian 9.8.0
 * Linux Mint 19.1
+* Fedora 30
 
 ## Screenshot in Ubuntu 18.04.2
 ![Screenshot](screenshot.png)
