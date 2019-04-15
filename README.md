@@ -15,6 +15,9 @@ Download the deb file from the releases(https://github.com/redshaderobotics/scra
 ## Screenshot in Linux Mint 19.1
 ![Screenshot](screenshotmint.png)
 
+## Screenshot in Fedora 30
+![Screenshot](screenshotfedora.png)
+
 ### License
 BSD Clause 2 provided by the LLK
 
