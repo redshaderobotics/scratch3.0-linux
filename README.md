@@ -2,7 +2,10 @@
 As the offline version of Scratch 3.0 is not supported for the linux, this is the rebuild of the scratch desktop for debian based GNU Linux distributions like Ubuntu or Debian. Tested working without any issues.
 
 ## Installation
-Download the deb file from the releases(https://github.com/redshaderobotics/scratch3.0-linux/releases/download/1.2.1/scratch-desktop_1.2.1_amd64.deb). Install using the software installer in ubuntu.
+Go to https://github.com/redshaderobotics/scratch3.0-linux/releases
+Installers for Debian based distributions and are available in deb format. For RPM distributions rpm installers are available in the release section.
+### For Other Linux Distros
+Download the archive from the releases. Unzip and run the command ./scratch-desktop to run the desktop.
 
 ## Supported/Tested Linux Distros
 * Ubuntu 18.04.2
