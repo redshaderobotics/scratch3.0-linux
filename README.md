@@ -1,5 +1,5 @@
 # Scratch Desktop 3.0 Offline Editor for Linux
-As the offline version of Scratch 3.0 is not supported for the linux, this is the rebuild of the scratch desktop for debian based GNU Linux distributions like Ubuntu or Debian. Tested working without any issues.
+As the offline version of Scratch 3.0 is not supported for the linux, this is the rebuild of the scratch desktop for debian based GNU Linux distributions like Ubuntu or Debian and for RPM based distributions like Fedore and OpenSUSE. Tested working without any issues.
 
 ## Installation
 Go to https://github.com/redshaderobotics/scratch3.0-linux/releases
@@ -12,6 +12,7 @@ Download the archive from the releases. Unzip and run the command ./scratch-desk
 * Debian 9.8.0
 * Linux Mint 19.1
 * Fedora 30
+* OpenSUSE Leap 15.1
 
 ## Screenshot in Ubuntu 18.04.2
 ![Screenshot](screenshot.png)
