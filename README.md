@@ -13,6 +13,7 @@ Download the archive from the releases. Unzip and run the command ./scratch-desk
 * Linux Mint 19.1
 * Fedora 30
 * OpenSUSE Leap 15.0
+* Ubuntu 14.04 (32 bit)
 
 ## Screenshot in Ubuntu 18.04.2
 ![Screenshot](screenshot.png)
